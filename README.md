@@ -1,4 +1,4 @@
-# Hi, I'm Enniyavel 👋
+# Hi, I'm Enniyavel S 👋
 
 🎓 Information Technology Student at St. Joseph's College of Engineering  
 💻 Interests: C Programming, Python, AI, Software Development  
