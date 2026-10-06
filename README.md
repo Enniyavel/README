@@ -36,7 +36,7 @@ Here are some repositories that inspire me and help me learn:
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Enniyavel&show_icons=true&theme=radical)
 
 ---
 
